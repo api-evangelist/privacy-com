@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://privacy.com/developer/docs
 common:
+  - type: TrustCenter
+    url: security/privacy-com-trust-center.yml
+  - type: DomainSecurity
+    url: security/privacy-com-domain-security.yml
   - type: Website
     url: https://privacy.com/developer/docs
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://privacy.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
