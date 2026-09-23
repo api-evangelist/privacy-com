@@ -1,0 +1,27 @@
+# Front Door AI Index — privacy-com — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: privacy-com
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: privacy.com
+  final_host: www.privacy.com
+  ownership: own
+  owner: privacy-com
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 2
+  host_score: 2
+  density: 1.57
+  words: 1270
+  tiers:
+    agentic: 1
+    core: 1
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI: 1
+    MCP: 1
+    agent: 1
