@@ -39,7 +39,6 @@ apis:
   - name: Privacy.com
     description: "Generate merchant-specific and one-time use credit card numbers that link back to your bank"
     humanURL: https://privacy.com/developer/docs
-    baseURL: https://privacy.com/developer/docs
     tags:
       - Security
     properties:
